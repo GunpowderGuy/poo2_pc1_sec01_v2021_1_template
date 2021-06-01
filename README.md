@@ -6,4 +6,4 @@
 - El tiempo límite para la evaluación es 150 minutos.
 - Todas las respuestas a las preguntas deberá ser incluidas en los archivo fuente (`.cpp`) y archivo cabecera (`.h`) :
     - `pc1.cpp, pc1.h`
-- SOLO estos 2 archivos deberan se subidos directamente a [www.gradescope.com](https://www.gradescope.com).
+- SOLO estos 2 archivos deberán ser subidos directamente a [www.gradescope.com](https://www.gradescope.com).
