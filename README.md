@@ -9,4 +9,4 @@
 - **SOLO** estos 2 archivos deberán ser subidos directamente a [www.gradescope.com](https://www.gradescope.com).
 - Los **enunciados de las preguntas** se encuentra en el archivo **CS1103 - PC01 - 2021-1 - Lab101.pdf.**.
 - La **rúbrica** de la práctica calificada se encuentra en el archivo **CS1103 - PC01 - 2021-1 - Lab101_rubrica.pdf.**.
-- Tanto **enunciados** como **rúbrica** se encuentra incluidos en este repositorio.
+- Tanto **enunciados** como **rúbrica** se encuentran incluidos en este repositorio.
