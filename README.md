@@ -7,5 +7,6 @@
 - Todas las respuestas a las preguntas deberá ser incluidas en los archivo fuente (`.cpp`) y archivo cabecera (`.h`) :
     - `pc1.cpp, pc1.h`
 - SOLO estos 2 archivos deberán ser subidos directamente a [www.gradescope.com](https://www.gradescope.com).
-- Los **enunciados de las preguntas** se encuentra en el archivo **CS1103 - PC01 - 2021-1 - Lab101.pdf.** dentro de este repositorio.
-- La **rubrica** de la práctica calificada se encuentra en el archivo **CS1103 - PC01 - 2021-1 - Lab101_rubrica.pdf.** dentro de este repositorio.
+- Los **enunciados de las preguntas** se encuentra en el archivo **CS1103 - PC01 - 2021-1 - Lab101.pdf.**.
+- La **rubrica** de la práctica calificada se encuentra en el archivo **CS1103 - PC01 - 2021-1 - Lab101_rubrica.pdf.**.
+- Tanto **enunciados** como **rubrica** se encuentra incluidos en este repositorio.
