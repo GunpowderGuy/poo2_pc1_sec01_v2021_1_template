@@ -1,7 +1,7 @@
 # PC #1
 **course:** Programación Orientada a Objetos II - CS1103  
 **unit:** Unidad 1, 2 y 3  
-**cmake project:** po2_pc1_sec01_v2021_1_template  
+**cmake project:** poo2_pc1_sec01_v2021_1_template  
 ## Indicaciones Especificas
 - El tiempo límite para la evaluación es 150 minutos.
 - Todas las respuestas a las preguntas deberá ser incluidas en el archivo fuente (`.cpp`) y archivo cabecera (`.h`) :
