@@ -1,4 +1,9 @@
 # Project exclude paths
 /cmake-build-debug/
+<<<<<<< HEAD
 .cache
 /build/
+=======
+/build/
+/.cache/
+>>>>>>> bd32cc41e129a7eba48228c791e8c0c7310d0248
