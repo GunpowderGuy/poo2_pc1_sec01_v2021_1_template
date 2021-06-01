@@ -5,3 +5,19 @@
 #include "pc1.h"
 
 // Pregunta #1
+
+
+
+
+
+
+// Pregunta #2
+
+
+
+
+
+// Pregunta #3 y #4
+
+
+
